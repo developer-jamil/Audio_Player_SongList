@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Audio Player - Home Work</string>
+
+
+    <string name="singer_1">Tahsan</string>
+    <string name="singer_2">Arijit Sing</string>
+    <string name="singer_3">Neha Kakkar</string>
+    <string name="singer_4">Tonoy Kakkar</string>
+    <string name="singer_5">Badsha</string>
+    <string name="singer_6">Honey Sing</string>
+
+
+</resources>
